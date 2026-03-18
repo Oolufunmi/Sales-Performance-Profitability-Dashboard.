@@ -15,12 +15,7 @@ This project focuses on analyzing sales performance using a SuperStore dataset a
 
 ## 📈 Dashboard Overview
 The dashboard provides a comprehensive overview of business performance using key metrics:
-<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/13992bfa-cbd9-4e33-8711-b9285e800ee5" />
-<img width="916" height="511" alt="image" src="https://github.com/user-attachments/assets/77af70dd-64b7-448f-ad51-bc17c08b618b" />
-### Interact with the Dashboard here 
-https://app.powerbi.com/links/Gh4HtdHsbG?ctid=0990f152-ffce-47c5-b230-60d0d0fb2445&pbi_source=linkShare
 
-https://app.powerbi.com/links/Gh4HtdHsbG?ctid=0990f152-ffce-47c5-b230-60d0d0fb2445&pbi_source=linkShare&bookmarkGuid=3eb47760-7b59-4e54-8e94-ed9d81b96c5d
 - **Total Orders:** 22K  
 - **Total Sales:** $1.57M  
 - **Total Profit:** $175.26K  
@@ -66,7 +61,12 @@ Some important insights from the analysis include:
 
 ## 📷 Dashboard Preview
 
-![SuperStore Sales Dashboard](dashboard.png)
+<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/13992bfa-cbd9-4e33-8711-b9285e800ee5" />
+<img width="916" height="511" alt="image" src="https://github.com/user-attachments/assets/77af70dd-64b7-448f-ad51-bc17c08b618b" />
+### Interact with the Dashboard here 
+https://app.powerbi.com/links/Gh4HtdHsbG?ctid=0990f152-ffce-47c5-b230-60d0d0fb2445&pbi_source=linkShare
+
+https://app.powerbi.com/links/Gh4HtdHsbG?ctid=0990f152-ffce-47c5-b230-60d0d0fb2445&pbi_source=linkShare&bookmarkGuid=3eb47760-7b59-4e54-8e94-ed9d81b96c5d
 
 ---
 
