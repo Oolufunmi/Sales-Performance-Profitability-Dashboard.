@@ -93,6 +93,4 @@ This project demonstrates how raw sales data can be transformed into a **clear a
 ## 👩‍💻 Author
 
 **Olufunmilola Olaewe**  
-Aspiring Data Analyst
-
-🔗 LinkedIn: *(Add your LinkedIn profile link here)*
+Business Inetlligence Analyst
