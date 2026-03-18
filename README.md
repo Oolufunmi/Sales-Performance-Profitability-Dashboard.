@@ -14,6 +14,8 @@ This project focuses on analyzing sales performance using a SuperStore dataset a
 ---
 
 ## 📈 Dashboard Overview
+<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/13992bfa-cbd9-4e33-8711-b9285e800ee5" />
+<img width="916" height="511" alt="image" src="https://github.com/user-attachments/assets/77af70dd-64b7-448f-ad51-bc17c08b618b" />
 
 The dashboard provides a comprehensive overview of business performance using key metrics:
 
