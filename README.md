@@ -61,8 +61,10 @@ Some important insights from the analysis include:
 
 ## 📷 Dashboard Preview
 
-<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/13992bfa-cbd9-4e33-8711-b9285e800ee5" />
-<img width="916" height="511" alt="image" src="https://github.com/user-attachments/assets/77af70dd-64b7-448f-ad51-bc17c08b618b" />
+<img width="951" height="538" alt="image" src="<img width="551" height="311" alt="image" src="https://github.com/user-attachments/assets/2b3f797c-b5a2-4b5f-898a-540c6abcf510" />
+" />
+<img width="916" height="511" alt="image" src="<img width="557" height="314" alt="nan 2" src="https://github.com/user-attachments/assets/736712c8-ca32-48f8-9cb4-cb4fa4b0aabc" />
+" />
 ### Interact with the Dashboard here 
 https://app.powerbi.com/links/Gh4HtdHsbG?ctid=0990f152-ffce-47c5-b230-60d0d0fb2445&pbi_source=linkShare
 
